@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+	<addons>
+		<by-id>
+			<org.flightgear.addons.PaxTransport>
+				<addon-devel>
+				</addon-devel>
+			</org.flightgear.addons.PaxTransport>
+		</by-id>
+	</addons>
+</PropertyList>

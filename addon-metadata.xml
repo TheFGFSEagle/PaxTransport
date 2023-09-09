@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PropertyList>
+	<meta>
+		<file-type>FlightGear add-on metadata</file-type>
+		<format-version type="int">1</format-version>
+	</meta>
+
+	<addon>
+		<identifier>org.flightgear.addons.PaxTransport</identifier>
+		<name>Pax transport</name>
+		<version>0.0.1</version>
+
+		<authors>
+			<author>
+				<name>TheFGFSEagle</name>
+				<email>thefgfseagle@gmail.com</email>
+			</author>
+		</authors>
+
+		<maintainers>
+			<maintainer>
+				<name>TheFGFSEagle</name>
+				<url>https://github.com/TheFGFSEagle</url>
+			</maintainer>
+		</maintainers>
+
+		<short-description>FlightGear addon for better simulation of cargo and person transport.</short-description>
+
+		<long-description>This add-on allows you to transport cargo and persons between places.</long-description>
+
+		<license>
+			<designation>GNU GPL version 3 or later</designation>
+			<file>LICENSE</file>
+			<url>https://www.gnu.org/licenses/gpl-3.0.html</url>
+		</license>
+
+		<min-FG-version>2020.4.0</min-FG-version>
+		<max-FG-version>none</max-FG-version>
+
+		<urls>
+			<home-page>https://wiki.flightgear.org/Pax_transport_addon</home-page>
+			<download>https://github.com/TheFGFSEagle/PaxTransport/releases/latest</download>
+			<support>https://github.com/TheFGFSEagle/PaxTransport/issues</support>
+			<code-repository>https://github.com/TheFGFSEagle/PaxTransport</code-repository>
+		</urls>
+
+		<tags>
+			<tag>transport</tag>
+			<tag>cargo</tag>
+			<tag>persons</tag>
+			<tag>pax</tag>
+			<tag>payload</tag>
+		</tags>
+	</addon>
+</PropertyList>
